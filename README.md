@@ -2,7 +2,6 @@
 It's a repository of Bootstrap Framework development.
 <img src="https://blog.getbootstrap.com/assets/img/2020/06/v5-new-logo.png">
 
-
 Em até quantas colunas uma página pode ser dividida no Bootstrap? 12
 
 ## Diferença do arquivo css e do min
