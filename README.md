@@ -78,6 +78,8 @@ Copie e cole o link abaixo no documento da sua página, logo você não precisar
 <pre>&lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"&gt;</pre>
 <pre><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script></pre>
 
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/106341494-451e1c00-627c-11eb-9813-9484e32e3ba9.jpg)
+
 ## Diferença do arquivo css e do min
 <p>O arquivo.css é todo indentado e legível, já o min possui o código todo junto, como se fosse uma única linha. O min aumenta a performance do site por ser mais leve do que o arquivo.css original.</p>
 
