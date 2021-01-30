@@ -52,7 +52,7 @@ It's a repository of Bootstrap Framework development.
 
 <h1 align="center">Cap: ☂️ Framework Bootstrap ☔</h1>
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170" title="Clique para acessar o site do Bootstrap"></a></div>
-<p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.</p>
+<p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end. Atualmente, o Framework está na beta da versão 5 e é com ela que iremos trabalhar!</p>
 
 ## Como funciona o Bootstrap?
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/106330804-a5a05f80-6262-11eb-990b-77961ab5ca76.jpg"></div>
