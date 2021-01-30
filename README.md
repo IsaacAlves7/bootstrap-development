@@ -67,8 +67,10 @@ O Bootstrap está funcionando ao modificar o tamanho da tela para ver sua respon
 <p>Podemos estruturar ele no nosso arquivo baixando os componentes ou via CDN. Veremos os dois casos abaixo:</p>
 
 ### Via DOCUMENT
+![v5-new-logo](https://user-images.githubusercontent.com/61624336/106340975-51a17500-627a-11eb-8252-7c918e6fb18c.png)
 
 ### Via CDN
+
 
 ## Diferença do arquivo css e do min
 <p>O arquivo.css é todo indentado e legível, já o min possui o código todo junto, como se fosse uma única linha. O min aumenta a performance do site por ser mais leve do que o arquivo.css original.</p>
