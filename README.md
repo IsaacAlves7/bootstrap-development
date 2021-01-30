@@ -23,7 +23,7 @@ It's a repository of Bootstrap Framework development.
 [![Java](https://img.shields.io/badge/-Java-7952B3?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/IsaacAlves7/java-programming)
 [![Sass](https://img.shields.io/badge/-Sass-7952B3?style=for-the-badge&logo=Sass&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![SVG](https://img.shields.io/badge/-SVG-7952B3?style=for-the-badge&logo=SVG&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
-[![GSAP](https://img.shields.io/badge/-GSAP-7952B3?style=for-the-badge&logo=GreenSock&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming)
+[![GSAP](https://img.shields.io/badge/-GSAP-7952B3?style=for-the-badge&logo=GreenSock&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![jQuery](https://img.shields.io/badge/-jQuery-7952B3?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![JSON](https://img.shields.io/badge/-JSON-7952B3?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Node.js](https://img.shields.io/badge/-Node.js-7952B3?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
