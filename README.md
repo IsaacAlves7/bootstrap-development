@@ -74,7 +74,7 @@ Baixe o arquivo do Bootstrap e descompacte-o. Em seguida, organize a estrutura d
 ### Via CDN
 Copie e cole o link abaixo no documento da sua página, logo você não precisará mais do documento, somente do link hospedado na internet. O que é ideal para deixar o seu site mais leve para a hospedagem.
 
-<pre><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"></pre>
+<pre>&lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"&gt;</pre>
 <pre><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script></pre>
 
 ## Diferença do arquivo css e do min
