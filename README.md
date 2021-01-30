@@ -63,6 +63,13 @@ Em até quantas colunas uma página pode ser dividida no Bootstrap? Até 12 colu
 
 O Bootstrap está funcionando ao modificar o tamanho da tela para ver sua responsividade.
 
+## Estrutura do Bootstrap
+<p>Podemos estruturar ele no nosso arquivo baixando os componentes ou via CDN. Veremos os dois casos abaixo:</p>
+
+### Via DOCUMENT
+
+### Via CDN
+
 ## Diferença do arquivo css e do min
 <p>O arquivo.css é todo indentado e legível, já o min possui o código todo junto, como se fosse uma única linha. O min aumenta a performance do site por ser mais leve do que o arquivo.css original.</p>
 
