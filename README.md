@@ -1,6 +1,7 @@
 # ☂️ Bootstrap Development ☔
 It's a repository of Bootstrap Framework development.
-<img src="https://blog.getbootstrap.com/assets/img/2020/06/v5-new-logo.png">
+
+<a href="https://github.com/IsaacAlves7/bootstrap-development"><img src="https://blog.getbootstrap.com/assets/img/2020/06/v5-new-logo.png"></a>
 
 ## 🎒 Prerequisites and repositories 📚:
 <ul>
@@ -20,7 +21,6 @@ It's a repository of Bootstrap Framework development.
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-7952B3?style=for-the-badge&logo=CodeIgniter&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![Python](https://img.shields.io/badge/-Python-7952B3?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/IsaacAlves7/python-programming)
 [![Java](https://img.shields.io/badge/-Java-7952B3?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/IsaacAlves7/java-programming)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://github.com/IsaacAlves7/bootstrap-development)
 [![Sass](https://img.shields.io/badge/-Sass-7952B3?style=for-the-badge&logo=Sass&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![SVG](https://img.shields.io/badge/-SVG-7952B3?style=for-the-badge&logo=SVG&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
 [![GSAP](https://img.shields.io/badge/-GSAP-7952B3?style=for-the-badge&logo=GreenSock&logoColor=black)](https://github.com/IsaacAlves7/jQuery-programming)
