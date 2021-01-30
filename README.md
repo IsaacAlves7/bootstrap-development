@@ -67,6 +67,7 @@ O Bootstrap está funcionando ao modificar o tamanho da tela para ver sua respon
 <p>Podemos estruturar ele no nosso arquivo baixando os componentes ou via CDN. Veremos os dois casos abaixo:</p>
 
 ### Via DOCUMENT
+Baixe o arquivo do Bootstrap e descompacte-o. Em seguida, organize a estrutura de documentos da sua página de acordo com o exemplo abaixo.
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/106341041-8f060280-627a-11eb-940c-95ac5279d24c.jpg)
 
 ### Via CDN
