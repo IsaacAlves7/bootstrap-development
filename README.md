@@ -55,7 +55,7 @@ It's a repository of Bootstrap Framework development.
 <p>Se trata de um framework para desenvolvimento de sites responsivos. Possui uma vasta biblioteca de componentes que facilita a agiliza o desenvolvimento de páginas web. É um dos frameworks mais conhecidos e usados para desenvolvimento front-end.</p>
 
 ## Como funciona o Bootstrap?
-![Sem Título-1](https://user-images.githubusercontent.com/61624336/106330804-a5a05f80-6262-11eb-990b-77961ab5ca76.jpg)
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/106330804-a5a05f80-6262-11eb-990b-77961ab5ca76.jpg"></div>
 
 <p>O Bootstrap já possui um padrão para containers, divs e entre outras tags, como se fossem uma espécie de caixa, todas elas são chamadas pelos atributos <code>class</code>. Uma desvantagem do Bootstrap é a quantidade de linhas e classes no arquivo html, tornando o código mais longo do que estilizado pelo CSS puro. No entanto, é possível utilizar o Framework Bootstrap junto com a folha de Estilo, basta somente usar outros nomes para os seletores.</p>
 
