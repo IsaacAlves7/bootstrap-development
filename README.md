@@ -70,6 +70,7 @@ O Bootstrap está funcionando ao modificar o tamanho da tela para ver sua respon
 Baixe o arquivo do Bootstrap e descompacte-o. Em seguida, organize a estrutura de documentos da sua página de acordo com o exemplo abaixo.
 
 ![Sem Título-1](https://user-images.githubusercontent.com/61624336/106341041-8f060280-627a-11eb-940c-95ac5279d24c.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/106341387-d9d44a00-627b-11eb-8726-5084ed02964a.jpg)
 
 ### Via CDN
 Copie e cole o link abaixo no documento da sua página, logo você não precisará mais do documento, somente do link hospedado na internet. O que é ideal para deixar o seu site mais leve para a hospedagem.
