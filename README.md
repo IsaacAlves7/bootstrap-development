@@ -1,6 +1,7 @@
 # ☂️ Bootstrap Development ☔
 It's a repository of Bootstrap Framework development.
 <img src="https://blog.getbootstrap.com/assets/img/2020/06/v5-new-logo.png">
+<hr>
 
 <h1 align="center">Cap: ☂️ Framework Bootstrap ☔</h1>
 <div align="center"><a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="170" title="Clique para acessar o site do Bootstrap"></a></div>
