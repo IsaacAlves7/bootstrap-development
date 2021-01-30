@@ -68,3 +68,8 @@ O Bootstrap está funcionando ao modificar o tamanho da tela para ver sua respon
 
 ### Deixar elementos ocultos no Bootstrap
 <pre>class="hidden-xs"</pre> 
+
+## Documentation
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+<p>Na documentação do Bootstrap podemos utilizar modelos prontos de como criar elementos para a nossa página.</p>
