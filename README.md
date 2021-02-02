@@ -90,3 +90,7 @@ Copie e cole o link abaixo no documento da sua página, logo você não precisar
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 <p>Na documentação do Bootstrap podemos utilizar modelos prontos de como criar elementos para a nossa página.</p>
+
+## Criando containers personalizados para o seu site
+
+## Trabalhando com imagens dentro de containers
