@@ -27,26 +27,26 @@ It's a repository of Bootstrap Framework development.
 [![jQuery](https://img.shields.io/badge/-jQuery-7952B3?style=for-the-badge&logo=jQuery&logoColor=white)](https://github.com/IsaacAlves7/jQuery-programming)
 [![JSON](https://img.shields.io/badge/-JSON-7952B3?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Node.js](https://img.shields.io/badge/-Node.js-7952B3?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Babel.js](https://img.shields.io/badge/-Babel-7952B3?style=for-the-badge&logo=Babel&logoColor=black)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Grunt](https://img.shields.io/badge/-Grunt-7952B3?style=for-the-badge&logo=Grunt&logoColor=black)](https://github.com/IsaacAlves7/gulp-programming)
+[![Babel.js](https://img.shields.io/badge/-Babel-7952B3?style=for-the-badge&logo=Babel&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Grunt](https://img.shields.io/badge/-Grunt-7952B3?style=for-the-badge&logo=Grunt&logoColor=white)](https://github.com/IsaacAlves7/gulp-programming)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-7952B3?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![React.js](https://img.shields.io/badge/-React.js-7952B3?style=for-the-badge&logo=React&logoColor=61DAFB)](https://github.com/IsaacAlves7/react.js-programming)
-[![React Native](https://img.shields.io/badge/-React‍‍Native-FF2D20?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
-[![Redux](https://img.shields.io/badge/-Redux-3880FF?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
-[![Angular.js](https://img.shields.io/badge/-Angular.js-FF2D20?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/angular.js-programming)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-3880FF?style=for-the-badge&logo=Vue.js&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-FF2D20?style=for-the-badge&logo=Nuxt.js&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
-[![Vuetify.js](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
-[![Ionic](https://img.shields.io/badge/-Ionic-FF2D20?style=for-the-badge&logo=Ionic&logoColor=white)](https://github.com/IsaacAlves7/ionic-programming)
-[![Electron](https://img.shields.io/badge/-Electron-007ACC?style=for-the-badge&logo=Electron&logoColor=white)](https://github.com/IsaacAlves7/electron-programming)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-FF2D20?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
-[![ReactiveX](https://img.shields.io/badge/-ReactiveX-007ACC?style=for-the-badge&logo=ReactiveX&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-FF2D20?style=for-the-badge&logo=Gatsby&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
-[![Gulp](https://img.shields.io/badge/-Gulp-1867C0?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/IsaacAlves7/gulp-programming)
-[![Webpack](https://img.shields.io/badge/-Webpack-FF2D20?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
-[![Jest](https://img.shields.io/badge/-Jest-1572B6?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
-[![C#](https://img.shields.io/badge/-C.Sharp-FF2D20?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://github.com/IsaacAlves7/c-sharp-programming)
-[![Systems Architecture](https://img.shields.io/badge/-Systems‍‍Architecture-blue?style=for-the-badge&logo=ReactOS&logoColor=white)](https://github.com/IsaacAlves7/systems-architecture)
+[![React Native](https://img.shields.io/badge/-React‍‍Native-7952B3?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react-native-programming)
+[![Redux](https://img.shields.io/badge/-Redux-7952B3?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Angular.js](https://img.shields.io/badge/-Angular.js-7952B3?style=for-the-badge&logo=AngularJS&logoColor=white)](https://github.com/IsaacAlves7/angular.js-programming)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-7952B3?style=for-the-badge&logo=Vue.js&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-7952B3?style=for-the-badge&logo=Nuxt.js&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
+[![Vuetify.js](https://img.shields.io/badge/-Vuetify-7952B3?style=for-the-badge&logo=Vuetify&logoColor=white)](https://github.com/IsaacAlves7/vue.js-programming)
+[![Ionic](https://img.shields.io/badge/-Ionic-7952B3?style=for-the-badge&logo=Ionic&logoColor=white)](https://github.com/IsaacAlves7/ionic-programming)
+[![Electron](https://img.shields.io/badge/-Electron-7952B3?style=for-the-badge&logo=Electron&logoColor=white)](https://github.com/IsaacAlves7/electron-programming)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-7952B3?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![ReactiveX](https://img.shields.io/badge/-ReactiveX-7952B3?style=for-the-badge&logo=ReactiveX&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-7952B3?style=for-the-badge&logo=Gatsby&logoColor=white)](https://github.com/IsaacAlves7/typescript-programming)
+[![Gulp](https://img.shields.io/badge/-Gulp-7952B3?style=for-the-badge&logo=gulp&logoColor=white)](https://github.com/IsaacAlves7/gulp-programming)
+[![Webpack](https://img.shields.io/badge/-Webpack-7952B3?style=for-the-badge&logo=Webpack&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
+[![Jest](https://img.shields.io/badge/-Jest-7952B3?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/IsaacAlves7/webpack-programming)
+[![C#](https://img.shields.io/badge/-C.Sharp-7952B3?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://github.com/IsaacAlves7/c-sharp-programming)
+[![Systems Architecture](https://img.shields.io/badge/-Systems‍‍Architecture-7952B3?style=for-the-badge&logo=ReactOS&logoColor=white)](https://github.com/IsaacAlves7/systems-architecture)
 
 <hr>
 
@@ -90,3 +90,9 @@ Copie e cole o link abaixo no documento da sua página, logo você não precisar
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 <p>Na documentação do Bootstrap podemos utilizar modelos prontos de como criar elementos para a nossa página.</p>
+
+## Criando containers personalizados para o seu site
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/106649682-b0176d80-6570-11eb-88be-8c651d26cf81.jpg)
+![Sem Título-1](https://user-images.githubusercontent.com/61624336/106650159-52375580-6571-11eb-9af7-293c5976ffaf.jpg)
+
+## Trabalhando com imagens dentro de containers
